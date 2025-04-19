@@ -32,6 +32,9 @@ Review and Create IAM User
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/c9f6c53d-a161-49ef-8e47-12ecde5b18ab)
+
+![image](https://github.com/user-attachments/assets/e78409ee-e66e-4186-82a9-de89577fc2f0)
 
 ## RESULT
 
