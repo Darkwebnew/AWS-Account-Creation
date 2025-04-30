@@ -1,4 +1,5 @@
-# CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+# Ex - 1 CLOUD ACCOUNT SETUP AND SERVICES OVERVIEW IN AWS
+
 ## AIM
 
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
